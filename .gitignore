@@ -1,0 +1,13 @@
+*.tfvars
+*.tfstate*
+
+.DS_Store
+secrets.tfvars
+!example.tfvars
+!example_secrets.tfvars
+*.keys
+*.license
+*.creds
+vendored-cookbooks/**
+.chef/delivery-validator.pem
+.chef/delivery-validator.pub
