@@ -1,5 +1,4 @@
-*.tfvars
-*.tfstate*
+
 
 .DS_Store
 secrets.tfvars
